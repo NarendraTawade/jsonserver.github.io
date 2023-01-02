@@ -1,0 +1,296 @@
+{
+  "products": [
+    {
+      "columnNames": [
+        "Sr. No.",
+        "Name",
+        "MRP",
+        "Qty",
+        "Manufacturer",
+        "MfgDate",
+        "ExpDate",
+        "Rate"
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Sinarest Syrup",
+      "mrp": 70,
+      "quantity": 125,
+      "manufacturer": "Centaur Pharma",
+      "mfgDate": "June 2022",
+      "expDate": "Mar 2024",
+      "rate": 55
+    },
+    {
+      "id": 2,
+      "name": "Okacet Tablet",
+      "mrp": 18,
+      "quantity": 200,
+      "manufacturer": "Cipla",
+      "mfgDate": "June 2021",
+      "expDate": "Mar 2023",
+      "rate": 10
+    },
+    {
+      "id": 3,
+      "name": "Amlokind-10 Tablet",
+      "mrp": 200,
+      "quantity": 20,
+      "manufacturer": "Manakind",
+      "mfgDate": "Oct 2022",
+      "expDate": "Mar 2025",
+      "rate": 135
+    },
+    {
+      "id": 4,
+      "name": "Azicip 500 Tablet",
+      "mrp": 148,
+      "quantity": 76,
+      "manufacturer": "Cipla",
+      "mfgDate": "Oct 2022",
+      "expDate": "June 2024",
+      "rate": 115
+    },
+    {
+      "id": 5,
+      "name": "Zerodop-p",
+      "mrp": 95,
+      "quantity": 100,
+      "manufacturer": "Epca Pharma",
+      "mfgDate": "Mar 2022",
+      "expDate": "Mar 2023",
+      "rate": 70
+    },
+    {
+      "id": 6,
+      "name": "Sinarest Tablet",
+      "mrp": 50,
+      "quantity": 100,
+      "manufacturer": "Centaur Pharma",
+      "mfgDate": "June 2022",
+      "expDate": "Mar 2024",
+      "rate": 35
+    },
+    {
+      "id": 7,
+      "name": "Zandu Balm",
+      "mrp": 30,
+      "quantity": 300,
+      "manufacturer": "Emami",
+      "mfgDate": "Oct 2022",
+      "expDate": "June 2025",
+      "rate": 25
+    },
+    {
+      "id": 8,
+      "name": "Omee-D",
+      "mrp": 115,
+      "quantity": 40,
+      "manufacturer": "Alkem Labs",
+      "mfgDate": "Oct 2021",
+      "expDate": "Mar 2023",
+      "rate": 80
+    },
+    {
+      "id": 9,
+      "name": "Sinarest Tablet",
+      "mrp": 50,
+      "quantity": 100,
+      "manufacturer": "Centaur Pharma",
+      "mfgDate": "June 2022",
+      "expDate": "Mar 2024",
+      "rate": 35
+    },
+    {
+      "id": 10,
+      "name": "Sinarest Tablet",
+      "mrp": 50,
+      "quantity": 100,
+      "manufacturer": "Centaur Pharma",
+      "mfgDate": "June 2022",
+      "expDate": "Mar 2024",
+      "rate": 35
+    },
+    {
+      "id": 11,
+      "name": "Sinarest MD",
+      "mrp": 120,
+      "quantity": 100,
+      "manufacturer": "Centaur Pharma",
+      "mfgDate": "June 2022",
+      "expDate": "Mar 2024",
+      "rate": 80
+    },
+    {
+      "id": 12,
+      "name": "Fepanil - P",
+      "mrp": "29.35",
+      "quantity": "80",
+      "manufacturer": "Veritaz Health",
+      "mfgDate": "2022-11-01",
+      "expDate": "2023-11-15",
+      "rate": "14.55"
+    },
+    {
+      "id": 13,
+      "name": "Fepanil Tab",
+      "mrp": "29.40",
+      "quantity": "80",
+      "manufacturer": "Veritaz Health",
+      "mfgDate": "2022-11-03",
+      "expDate": "2023-12-14",
+      "rate": "14.88"
+    },
+    {
+      "id": 14,
+      "name": "Vicks Action Tab",
+      "mrp": "20.25",
+      "quantity": "10",
+      "manufacturer": "Vicks",
+      "mfgDate": "2022-11-02",
+      "expDate": "2024-12-10",
+      "rate": "14.60"
+    },
+    {
+      "id": 15,
+      "name": "Ezitimibe",
+      "mrp": "389.67",
+      "quantity": "66",
+      "manufacturer": "Glenmark Pharma",
+      "mfgDate": "2022-11-02",
+      "expDate": "2023-11-08",
+      "rate": "250"
+    },
+    {
+      "id": 16,
+      "name": "Sinarest Tablet",
+      "mrp": 50,
+      "quantity": 100,
+      "manufacturer": "Centaur Pharma",
+      "mfgDate": "June 2022",
+      "expDate": "Mar 2024",
+      "rate": 35
+    },
+    {
+      "id": 17,
+      "name": "Crocin",
+      "mrp": "70",
+      "quantity": "76",
+      "manufacturer": "FDC ltd.",
+      "mfgDate": "2022-11-17",
+      "expDate": "2022-11-16",
+      "rate": "56"
+    }
+  ],
+  "retailers": [
+    {
+      "id": 1,
+      "retailerName": "Mr. Jagdish Desai",
+      "shopName": "Tirupati Medicals Stores",
+      "mobile": "9898868776",
+      "gstIN": "TFDGHG65656VGFGY7876",
+      "address": [
+        {
+          "shopNumber": "CP-12",
+          "street": "Main Road",
+          "landmark": "Shrinagar",
+          "city": "Nanded",
+          "district": "Nanded",
+          "state": "Maharashtra",
+          "pin": "431512"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "retailerName": "Mr. Gangadhar Ware",
+      "shopName": "Sugandha Medicals",
+      "mobile": "7364897656",
+      "gstIN": "GHJHHJ6767F666G",
+      "address": [
+        {
+          "shopNumber": "G56",
+          "street": "Main Road",
+          "landmark": "Bus Stand",
+          "city": "Basmath",
+          "district": "Hingoli",
+          "state": "Maharashtra",
+          "pin": "656567"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "retailerName": "Mr. Jogindar Sharma",
+      "shopName": "LifeCare Medicals",
+      "mobile": "7676767767",
+      "gstIN": "GHGHGJ6768GHB67",
+      "address": [
+        {
+          "shopNumber": "V-77",
+          "street": "Sarafa Line",
+          "landmark": "Irrigation",
+          "city": "Theur",
+          "district": "Hingoli",
+          "state": "Maharashtra",
+          "pin": "431512"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "retailerName": "Dnyaneshwar Deshmukh",
+      "shopName": "Deshmukh Medicals",
+      "mobile": "5633487988",
+      "gstIN": "GHGHJHIHJH7676767HGHG8678",
+      "address": [
+        {
+          "shopNumber": "B/67",
+          "street": "Taroda Naka Road",
+          "landmark": "Raj Corner",
+          "city": "Nanded",
+          "district": "Nanded",
+          "state": "Maharashtra",
+          "pin": "435534"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "retailerName": "Dnyaneshwar Deshmukh",
+      "shopName": "Deshmukh Medicals",
+      "mobile": "5633487988",
+      "gstIN": "GHGHJHIHJH7676767HGHG8678",
+      "address": [
+        {
+          "shopNumber": "B/67",
+          "street": "Taroda Naka Road",
+          "landmark": "Raj Corner",
+          "city": "Nanded",
+          "district": "Nanded",
+          "state": "Maharashtra",
+          "pin": "435534"
+        }
+      ]
+    }
+  ],
+  "invoices": [
+    [
+      {
+        "name": "Amlokind-10 Tablet",
+        "qty": "3",
+        "mrp": 200,
+        "rate": 135,
+        "amount": 405
+      },
+      {
+        "name": "Omee-D",
+        "qty": "4",
+        "mrp": 115,
+        "rate": 80,
+        "amount": 320
+      }
+    ]
+  ]
+}
